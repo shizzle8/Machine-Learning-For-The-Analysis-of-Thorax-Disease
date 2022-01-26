@@ -1,0 +1,1 @@
+![alt text](https://github.com/shizzle8/Machine-Learning-For-The-Analysis-of-Thorax-Disease/blob/master/architecture.png)
